@@ -1,0 +1,8 @@
+.selection{
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
